@@ -1,0 +1,51 @@
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__logos {
+  display: flex;
+}
+
+.footer__icon {
+  display: flex;
+  margin: 2%;
+  width: 4%;
+  padding: 1%;
+  border: 2px solid;
+  border-radius: 20px;
+  border-color: rgb(255, 83, 0);
+  align-items: center;
+  justify-content: center;
+}
+
+.footer__first {
+  max-width: 30rem;
+}
+
+.mbu {
+  margin: 1rem 0;
+}
+
+.footer__mix {
+  display: flex;
+  flex-direction: row;
+  width: 30vw;
+}
+
+.footer__pages {
+  margin-left: -2rem;
+}
+.list__item--grey {
+  margin: 0.5em;
+  color: rgb(163, 152, 152);
+}
+
+.footer__partner {
+  text-align: center;
+}
+
+.footer__partner p {
+  margin-bottom: 10%;
+}
